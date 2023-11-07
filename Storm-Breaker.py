@@ -39,7 +39,7 @@ while True:
             banner.infolist1()
 
         elif input1 == "6":
-            print("\n God Lock :)")
+            print("\n God Blast You :)")
             sys.exit()
 
     except KeyboardInterrupt:
